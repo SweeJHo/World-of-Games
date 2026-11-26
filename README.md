@@ -1,4 +1,5 @@
 # 🎮 World of Games
+![World of Games](Banner.png)
 
 **My First Python Coding Project | Code in Place X**
 
